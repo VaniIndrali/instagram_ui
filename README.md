@@ -1,6 +1,10 @@
-# instagram_ui
+# Instagram_UI
 
-A new Flutter application.
+Instagram UI Design using Flutter
+
+# Note:
+
+Each container is given colors to fully understand the boundary of the container.
 
 ## Getting Started
 
